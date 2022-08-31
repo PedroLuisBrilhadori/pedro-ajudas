@@ -15,4 +15,4 @@ Cada vez que chamamos o Widget `CarroWidget`, passamos valores diferentes, para 
 
 ## Imagem de como a tela principal do app ficou
 
-![img](/images/tela-principal.png)
+![img](../images/tela-principal.png)

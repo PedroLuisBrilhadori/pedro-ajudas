@@ -6,4 +6,4 @@ O aplicativo foi feito com intuito de aprender sobre os StatelessWidgets. Para i
 
 ## Imagem de como a tela principal do app ficou
 
-![img](/images/tela-principal.png)
+![img](./images/tela-principal.png)
